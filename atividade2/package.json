@@ -1,0 +1,22 @@
+{
+  "name": "atividade2",
+  "version": "1.0.0",
+  "description": "Utilizando node criar uma aplicação que recebe o salário, o reajuste e apresente o novo salário",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisgaspari/ILP010_Atividade2.git"
+  },
+  "author": "Luis Antonio Gaspari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisgaspari/ILP010_Atividade2/issues"
+  },
+  "homepage": "https://github.com/luisgaspari/ILP010_Atividade2#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
